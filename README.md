@@ -1,6 +1,6 @@
 # PDF to PNGs
 
-A macOS Automator app &amp; workflow for converting a PDF with to 300dpi PNG files.
+A macOS Automator app &amp; workflow for converting the pages of a PDF to 300dpi PNG files.
 
 This is handy for when you have a multi-page PDF file and you need PNG files for some other purpose.
 
