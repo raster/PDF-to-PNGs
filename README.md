@@ -18,7 +18,7 @@ You'll probably see the following:
 
 ---
 
-Click `Cancel` and the do it again and you should be able to open it the second time.
+Click `Cancel` and then do it again and you should be able to open it the second time.
 
 ![](Images/warning-02.png)
 
